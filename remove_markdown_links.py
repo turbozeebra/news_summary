@@ -1,7 +1,5 @@
 
 def remove_markdown_links(text_string):
-    def remove_single_link(start, end):
-        return text_string[:start] + text_string[end:]
 
     first_square = -1
     first_round = -1
