@@ -43,7 +43,7 @@ def main(args):
     # # prepare the data 
     get_yle_news()
     prompt_template_path = "prompts/summary_template.txt"
-    model_path = "~/Projects/Lama/Models/llama-7b-finnish-instruct-v0.2/model.q8.gguf"
+    model_path = args.model_path
 
     latest_news_file_path = find_latest_news()
     news_json = read_news(latest_news_file_path)
@@ -61,6 +61,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="An example Python script")
     parser.add_argument("--debug", action="store_true", help="Enable debug mode")
     parser.add_argument("--verbose", action="store_true", help="Tells some statistics")
+    parser.add_argument("--model_path", type=str, required=True, help="Path to a LLM")
     args = parser.parse_args()
     # Call the main function with the args parameter set
     main(args)
