@@ -1,5 +1,0 @@
-ohje: "Luo lyhyt tiivistelmä annetusta uutisartikkelista. Erottele lauseet uudella rivillä ja vältä toistoa. Sisällytä vain informaatio joka löytyy annetuista syötteistä. Esitä faktat neutraallisti käyttäen journalistista tyyliä. Lopeta tekstin generointi heti kun olet saanut asiasi sanotuksi"
-syöte: "New Yorkin pörssiä kiritti odotus koronlaskusta
-New Yorkin pörssiä kiritti odotus koronlaskusta
-Markkinoilla uskotaan Fedin laskevan ohjauskorkoaan vielä joulukuussa.Yhdysvalloissa New Yorkin pörssi sulkeutui maanantaina nousussa, kun sijoittajat odottavat keskuspankki Fedin koronlaskua.Teollisuusindeksi Dow Jones oli pörssipäivän päätteeksi koholla 0,4 prosenttia, kun taas laaja-alainen S&amp;P 500 oli 1,6 prosentin nousussa. Teknologiapainotteinen Nasdaq oli puolestaan 2,7 prosenttia plussalla.Sijoittajat uskovat Fedin laskevan ohjauskorkoaan vielä joulukuussa. Kyseessä olisi kolmas koronlasku tänä vuonna.Sarja talousraportteja julkaistiin hiljattain hallinnon sulun jälkeen. Raportit ovat viitanneet muun muassa siihen, että inflaatiotaso pysyy korkealla. Uusia taloustietoja on määrä julkaista vielä tällä viikolla.*Lähde: Reuters*"
-tiivistelmä: 
